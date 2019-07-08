@@ -1,6 +1,6 @@
 {
   "name": "rmind",
-  "homepage": "https://mongkii.github.io/RMind-Demo/",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
